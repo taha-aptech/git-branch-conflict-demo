@@ -1,4 +1,4 @@
 line 1 main branch
-line 2 main branch
+line 2 main branch - change doing from feature1 branch
 line 3 main branch
 line 4 from feature1 branch
